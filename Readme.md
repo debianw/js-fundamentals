@@ -4,16 +4,16 @@
 
 3.) Explain Global scope
 
-Callbacks that are are they for ?
+4.) Callbacks that what are they for ?
 
-Anonymous functions, what's that for ?
+5.) Anonymous functions, what's that for ?
 
-4.) What is Closure?  Please provide 1 or more examples of Closure in Javascript
+6.) What is Closure?  Please provide 1 or more examples of Closure in Javascript
 
-5.) What are functions call() or apply() for and when would you use them?
+7.) What are functions call() or apply() for and when would you use them?
 
-6.) Design Patterns, Which ones do you use more often ?
+8.) Design Patterns, Which ones do you use more often ?
 
-7.) Best practices in Javascript in general
+9.) Best practices in Javascript in general
 
-8.) How you could avoid callback hell in Javascript
+10.) How you could avoid callback hell in Javascript
