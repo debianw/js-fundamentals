@@ -1,0 +1,9 @@
+{
+  "name": "jsquestions-18techs",
+  "version": "0.0.1",
+  "devDependencies": {
+    "mocha": "^1.20.1",
+    "express": "^4.4.5",
+    "chai": "^1.9.1"
+  }
+}
